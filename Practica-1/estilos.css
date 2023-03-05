@@ -1,0 +1,114 @@
+/*
+---------------------------------------
+-  Created by Ismael Sandoval Aguilar - 
+-    033 E2023 Aplicaciones Moviles   -
+---------------------------------------
+*/
+
+/* Atributos globales */
+body 
+{
+    font-family: sans-serif;
+    background: #1E1E1E;
+}
+
+h5
+{
+    font-size: 20px;
+    width: 96px;
+    height: 26px;
+    margin: 0;
+}
+
+p
+{
+    font-size: 17px;
+    margin: 0
+}
+
+.caja
+{
+    box-sizing: border-box;
+    border-radius: 16px;
+    width: 492px;
+    height: 86px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Caja "titulo" */
+#titulo
+{
+    background: #1E1E1E;
+    border: 1px solid #d7d7d7;
+    border-left: 17px solid #ffffff;
+}
+
+#titulo h5
+{
+    color: #d7d7d7;
+}
+
+#titulo p
+{
+    color: #d7d7d7;
+}
+
+/* Caja "roja" */
+#roja
+{
+    background: #FACCC7;
+    border: 1px solid #E9594E;
+    border-left: 17px solid #E9594E;
+}
+
+#roja h5
+{
+    color: #E9594E;
+}
+
+/* Caja "verde" */
+#verde 
+{
+    background: #C4F6DC;
+    border: 1px solid #4ABA7E;
+    border-left: 17px solid #4ABA7E;
+}
+
+#verde h5
+{
+    color: #4aba7e;
+}
+
+/* Caja "amarillo" */
+#amarillo
+{
+    background: #FBE8CA;
+    border: 1px solid #DA9F3E;
+    border-left: 17px solid #DA9F3E;
+}
+
+#amarillo h5
+{
+    color: #DA9F3E;
+}
+
+/* Formato de la alerta */
+.negritas
+{
+    font-weight: bold;
+    color: #dadada;
+}
+
+/* Formato del boton "X" */
+button
+{
+    background: transparent;
+    border-color: transparent;
+}
