@@ -4,3 +4,8 @@ Repositorio para la asignatura de Aplicaciones Móviles de la Facultad de Cienci
 
 - Nombre: Ismael Sandoval Aguilar
 - Matrícula: 2086210
+
+Branches:
+
+- Practica I: "notificaciones"
+- Practica II: "ticket"
