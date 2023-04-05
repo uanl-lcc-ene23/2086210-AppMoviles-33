@@ -1,6 +1,5 @@
-# Practica V
+# Practica VI
 ## 033 E2023 Aplicaciones Móviles
-
 
 Repositorio para la asignatura de Aplicaciones Móviles de la Facultad de Ciencias Físico Matemáticas.
 
@@ -13,4 +12,5 @@ Branches:
 - Practica II: "ticket"
 - Practica III: "ticket-ionic"
 - Practica IV: "ionic"
-- Practica V": "MenuLateral"
+- Practica V: "menu-lateral"
+- Practica VI: "databinding"
