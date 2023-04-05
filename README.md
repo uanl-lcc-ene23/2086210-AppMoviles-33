@@ -13,4 +13,4 @@ Branches:
 - Practica II: "ticket"
 - Practica III: "ticket-ionic"
 - Practica IV: "ionic"
-- Practica V": "MenuLateral"
+- Practica V: "menu-lateral"
