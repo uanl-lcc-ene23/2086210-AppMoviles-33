@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "aplicaciones-moviles-9981a": {
+      "hosting": {
+        "pia-sfotipy": [
+          "aplicaciones-moviles-9981a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "aplicaciones-moviles-9981a"
+  }
+}

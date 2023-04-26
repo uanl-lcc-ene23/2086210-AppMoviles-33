@@ -91,6 +91,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "pia-sfotipy:build:production",
+            "firebaseProject": "aplicaciones-moviles-9981a",
+            "firebaseHostingSite": "aplicaciones-moviles-9981a"
+          }
         }
       }
     }
