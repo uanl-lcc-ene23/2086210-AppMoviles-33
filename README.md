@@ -1,5 +1,5 @@
-# PIA | Sfotipy
-## 033 E2023 Aplicaciones Móviles
+# PIA - Sfotipy
+### 033 E2023 Aplicaciones Móviles
 
 Repositorio para la asignatura de Aplicaciones Móviles de la Facultad de Ciencias Físico Matemáticas.
 
