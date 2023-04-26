@@ -40,6 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-
-# Extra
-.Practica-5/.angular/cache/

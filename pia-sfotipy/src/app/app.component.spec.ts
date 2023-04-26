@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'miApp'`, () => {
+  it(`should have as title 'pia-sfotipy'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('miApp');
+    expect(app.title).toEqual('pia-sfotipy');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('miApp app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('pia-sfotipy app is running!');
   });
 });
